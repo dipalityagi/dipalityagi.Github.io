@@ -1,0 +1,36 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.outer{
+    width: 700px;
+    height:800px;
+    margin: 0px auto; 
+}
+.outer h1{
+    text-align: center;
+}
+p{
+    font: 20px;
+
+}
+.border{
+    width:100%;
+    padding: 5px;
+    background-attachment: cadetblue;
+    border: 1px solid black;
+    font-weight: bold;
+}
+table{
+    border:2px solid #000;
+    margin: 1rem 0;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+td,th{
+    border: 1px solid #000;
+    padding: 0.4rem;
+}
+    
